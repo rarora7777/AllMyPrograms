@@ -2,7 +2,6 @@
 List of programs to download on a fresh Windows computer
 
 ## Dev Tools
-
 - Visual Studio
 - cmake
 - MATLAB
@@ -11,6 +10,7 @@ List of programs to download on a fresh Windows computer
 - vcpkg
 - Git
 - Chocolatey
+- MKL
 
 ## Creative Tools
 - Adobe CC
@@ -34,6 +34,7 @@ List of programs to download on a fresh Windows computer
 - QuickLook
 - Uoft VPN Cicso Anyconnect
 - ConEmu
+- ffmpeg
 
 ## Communication and Collaboration
 - Skype Win32
@@ -48,5 +49,12 @@ List of programs to download on a fresh Windows computer
 ## Libraries
 - Eigen
 - Boost
+- CGAL
 - libigl
 - gptoolbox
+- Qt
+- MPIR
+- MPFR
+- Triangle
+- TetGen
+- TetWild on Ubuntu
