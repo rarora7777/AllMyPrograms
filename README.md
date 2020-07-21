@@ -24,6 +24,7 @@ List of programs to download on a fresh Windows computer
 
 ## Utilities
 - PowerShell Core
+- Ubuntu on WSL
 - Rapid Environment Editor
 - Notepad++
 - PowerToys?
@@ -43,3 +44,9 @@ List of programs to download on a fresh Windows computer
 ## Misc.
 - Steam
 - Google Play Music Desktop Player
+
+## Libraries
+- Eigen
+- Boost
+- libigl
+- gptoolbox
