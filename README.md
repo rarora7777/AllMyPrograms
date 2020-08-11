@@ -5,7 +5,7 @@ List of programs to download on a fresh Windows computer
 - Visual Studio
 - cmake
 - MATLAB
-- Python
+- Python3 (Anaconda)
 - Unity
 - vcpkg
 - Git
@@ -13,7 +13,7 @@ List of programs to download on a fresh Windows computer
 - MKL
 
 ## Creative Tools
-- Adobe CC
+- Adobe CC (at least Photoshop and Premiere)
 - Blender
 - Maya?
 
