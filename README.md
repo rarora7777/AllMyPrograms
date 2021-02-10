@@ -30,7 +30,7 @@ List of programs to download on a fresh Windows computer. Those marked with `[c]
 - PowerShell Core `[c]`
 - Posh-git `[c]`
 - WSL `[c]`
-  - Ubuntu
+  - Ubuntu `[c]`
 - Rapid Environment Editor `[c]`
 - Dependency Walker Modern `[c]`
 - Notepad++ `[c]`
