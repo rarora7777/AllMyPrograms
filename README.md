@@ -24,6 +24,7 @@ List of programs to download on a fresh Windows computer. Those marked with `[c]
 ## Other Research Stuff
 - Latex-input
 - MikTeX `[c]`
+- Perl (for latexmk) `[c]`
 - Office
 
 ## Utilities
