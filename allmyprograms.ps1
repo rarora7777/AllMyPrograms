@@ -86,7 +86,7 @@ choco install steam -y
 choco install gpmdp -y
 
 # vcpkg
-mkdir /dev
+mkdir /dev -ErrorAction SilentlyContinue
 cd /dev
 git clone https://github.com/microsoft/vcpkg.git
 ./vcpkg/bootstrap-vcpkg.bat
