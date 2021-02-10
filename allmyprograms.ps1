@@ -91,6 +91,9 @@ git clone https://github.com/microsoft/vcpkg.git
 # Enable WSL
 Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux
 
+# ubuntu
+choco install wsl-ubuntu-2004 -y
+
 # Enable and start SSH Client service
 Set-Service -Name "ssh-agent" -StartupType Automatic
 Start-Service -Name "ssh-agent"
