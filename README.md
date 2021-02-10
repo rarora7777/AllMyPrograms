@@ -12,7 +12,6 @@ List of programs to download on a fresh Windows computer. Those marked with `[c]
   - Unity
 - vcpkg `[c]`
 - Git `[c]`
-- MKL `[c]`
 
 ## Creative Tools
 - Adobe CC `[c]`
@@ -63,6 +62,7 @@ List of programs to download on a fresh Windows computer. Those marked with `[c]
 - CGAL `[vcpkg]`
 - gptoolbox
 - libigl
+- MKL (`[vcpkg]` integration available, but requires separate manual installation)
 - MPIR `[vcpkg]`
 - MPFR `[vcpkg]`
 - Qt5 `[vcpkg]`
