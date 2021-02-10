@@ -34,6 +34,9 @@ choco install miktex -y
 # powershell core
 choco install powershell-core -y
 
+# posh-git
+choco install poshgit -y
+
 # rapid environment editor
 choco install rapidee -y
 
@@ -67,6 +70,9 @@ choco install skype -y
 # zoom
 choco install zoom -y
 
+# slack
+choco install slack -y
+
 # franz
 choco install franz -y
 
@@ -82,4 +88,9 @@ cd /dev
 git clone https://github.com/microsoft/vcpkg.git
 ./vcpkg/bootstrap-vcpkg.bat
 
+# Enable WSL
+Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux
 
+# Enable and start SSH Client service
+Set-Service -Name "ssh-agent" -StartupType Automatic
+Start-Service -Name "ssh-agent"
