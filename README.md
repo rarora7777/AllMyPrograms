@@ -37,6 +37,7 @@ List of programs to download on a fresh Windows computer
 - Uoft VPN Cicso Anyconnect
 - ConEmu
 - ffmpeg
+- Firefox
 
 ## Communication and Collaboration
 - Skype Win32
