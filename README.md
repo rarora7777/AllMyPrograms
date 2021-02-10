@@ -27,6 +27,8 @@ List of programs to download on a fresh Windows computer
 - Ubuntu on WSL
 - Rapid Environment Editor
 - Notepad++
+  - DSpellCheck plugin
+  - NppExec plugin
 - PowerToys?
 - 7-zip
 - SumatraPDF
