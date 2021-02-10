@@ -88,6 +88,9 @@ cd /dev
 git clone https://github.com/microsoft/vcpkg.git
 ./vcpkg/bootstrap-vcpkg.bat
 
+[System.Environment]::SetEnvironmentVariable('VCPKG_DEFAULT_TRIPLET','x64-windows',[System.EnvironmentVariableTarget]::User)
+refreshenv
+
 # Enable WSL
 Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux
 
