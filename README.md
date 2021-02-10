@@ -26,6 +26,7 @@ List of programs to download on a fresh Windows computer
 - PowerShell Core
 - Ubuntu on WSL
 - Rapid Environment Editor
+- Dependency Walker Modern
 - Notepad++
   - DSpellCheck plugin
   - NppExec plugin
