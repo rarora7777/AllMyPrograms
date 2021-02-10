@@ -31,6 +31,9 @@ choco install blender -y
 # miktex
 choco install miktex -y
 
+# perl
+choco install activeperl -y
+
 # powershell core
 choco install powershell-core -y
 
