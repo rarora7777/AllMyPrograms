@@ -24,6 +24,7 @@ List of programs to download on a fresh Windows computer
 
 ## Utilities
 - PowerShell Core
+- Posh-git
 - Ubuntu on WSL
 - Rapid Environment Editor
 - Dependency Walker Modern
