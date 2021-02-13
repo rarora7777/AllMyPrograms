@@ -1,12 +1,12 @@
 # AllMyPrograms
-List of programs to download on a fresh Windows computer. Those marked with `[c]` can be installed via the command line using `allmyprograms.ps1`.
+List of programs to download on a fresh Windows computer. Those marked with `[c]` can be installed via the command line using `allmyprograms.ps1`. Most are installed via [Chocolatey](chocolatey.org/), which itself is downloaded and installed by `allmyprograms.ps1` first.
 
 ## Dev Tools
 - Chocolatey `[c]`
 - Visual Studio `[c]`
   - C/C++ compiler `[c]`
 - cmake `[c]`
-- MATLAB
+- [MATLAB](https://www.mathworks.com/downloads/)
 - Python3 (Anaconda) `[c]`
 - Unity Hub `[c]`
   - Unity
@@ -14,17 +14,17 @@ List of programs to download on a fresh Windows computer. Those marked with `[c]
 - Git `[c]`
 
 ## Creative Tools
-- Adobe CC `[c]`
+- Adobe Creative Cloud `[c]`
   - Photoshop
   - Premiere
 - Blender `[c]`
-- Maya?
+- [Maya](https://www.autodesk.ca/en/products/maya/overview)?
 
 ## Other Research Stuff
-- Latex-input
+- [Latex-input](https://github.com/dacin21/latex-input)
 - MikTeX `[c]`
 - Perl (for latexmk) `[c]`
-- Office
+- [Microsoft Office](https://www.office.com)
 
 ## Utilities
 - PowerShell Core `[c]`
@@ -39,9 +39,9 @@ List of programs to download on a fresh Windows computer. Those marked with `[c]
 - PowerToys `[c]`
 - 7-zip `[c]`
 - SumatraPDF `[c]`
-- Oculus (if VR)
+- [Oculus](https://www.oculus.com/setup/) (if VR)
 - QuickLook `[c]`
-- Uoft VPN Cicso Anyconnect
+- [Uoft VPN Cicso Anyconnect](https://www.oculus.com/setup/)
 - ConEmu `[c]`
 - ffmpeg `[c]`
 - Firefox `[c]`
@@ -50,22 +50,22 @@ List of programs to download on a fresh Windows computer. Those marked with `[c]
 - Skype Win32 `[c]`
 - Zoom `[c]`
 - Slack `[c]`
-- Franz `[c]`
+- Ferdi `[c]`
 
 ## Misc.
 - Steam `[c]`
 - Google Play Music Desktop Player `[c]`
 
 ## Libraries (those marked with `[vcpkg]` can be installed using it)
-- Eigen3 `[vcpkg]`
-- Boost `[vcpkg]`
-- CGAL `[vcpkg]`
-- gptoolbox
-- libigl
-- MKL (`[vcpkg]` integration available, but requires separate manual installation)
+- [Eigen3](https://eigen.tuxfamily.org/index.php?title=Main_Page) `[vcpkg]`
+- [Boost](https://sourceforge.net/projects/boost/files/boost-binaries/) `[vcpkg]`
+- [CGAL](https://github.com/CGAL/cgal) `[vcpkg]`
+- [gptoolbox](https://github.com/alecjacobson/gptoolbox/)
+- [libigl](https://github.com/libigl/libigl/)
+- [MKL](https://github.com/oneapi-src/oneMKL) (`[vcpkg]` integration available, but requires separate manual installation)
 - MPIR `[vcpkg]`
 - MPFR `[vcpkg]`
-- Qt5 `[vcpkg]`
-- TetGen
-- TetWild on Ubuntu
-- Triangle `[vcpkg]`
+- [Qt5](https://www.qt.io/download) `[vcpkg]`
+- [TetGen](https://github.com/jdumas/tetgen)
+- [TetWild](https://github.com/Yixin-Hu/TetWild) on Ubuntu
+- [Triangle](https://github.com/libigl/triangle) `[vcpkg]`

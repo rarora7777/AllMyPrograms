@@ -76,8 +76,8 @@ choco install zoom -y
 # slack
 choco install slack -y
 
-# franz
-choco install franz -y
+# ferdi
+choco install ferdi -y
 
 # steam
 choco install steam -y
