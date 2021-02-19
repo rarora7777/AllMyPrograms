@@ -41,7 +41,7 @@ List of programs to download on a fresh Windows computer. Those marked with `[c]
 - SumatraPDF `[c]`
 - [Oculus](https://www.oculus.com/setup/) (if VR)
 - QuickLook `[c]`
-- [UofT VPN Cicso Anyconnect](https://www.oculus.com/setup/)
+- [UofT VPN Cicso Anyconnect](https://isops.noc.utoronto.ca/download/)
 - ConEmu `[c]`
 - ffmpeg `[c]`
 - Firefox `[c]`
