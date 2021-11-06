@@ -61,8 +61,8 @@ choco install sumatrapdf -y
 # quicklook
 choco install quicklook -y
 
-# conemu
-choco install conemu -y
+# windows terminal
+choco install microsoft-windows-terminal -y
 
 # ffmpeg
 choco install ffmpeg -y
