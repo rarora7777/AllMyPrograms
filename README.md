@@ -41,7 +41,7 @@ List of programs to download on a fresh Windows computer. Those marked with `[c]
 - SumatraPDF `[c]`
 - [Oculus](https://www.oculus.com/setup/) (if VR)
 - QuickLook `[c]`
-- [SylphyHorn](https://github.com/Grabacr07/SylphyHorn)
+- [SylphyHornPlus](https://github.com/hwtnb/SylphyHornPlusWin11)
 - Windows Terminal `[c]`
 - ffmpeg `[c]`
 - Firefox `[c]`
