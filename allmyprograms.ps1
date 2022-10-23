@@ -76,14 +76,14 @@ choco install zoom -y
 # slack
 choco install slack -y
 
-# ferdi
-choco install ferdi -y
+# ferdium
+choco install ferdium -y
 
 # steam
 choco install steam -y
 
-# google play music desktop player
-choco install gpmdp -y
+# youtube music desktop player
+choco install ytmdesktop -y
 
 # vcpkg
 mkdir /dev -ErrorAction SilentlyContinue
@@ -98,7 +98,7 @@ refreshenv
 Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux
 
 # ubuntu
-choco install wsl-ubuntu-2004 -y
+choco install wsl-ubuntu-2204 -y
 
 # Enable and start SSH Client service
 Set-Service -Name "ssh-agent" -StartupType Automatic
