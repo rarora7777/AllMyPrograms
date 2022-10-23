@@ -54,7 +54,7 @@ List of programs to download on a fresh Windows computer. Those marked with `[c]
 
 ## Misc.
 - Steam `[c]`
-- Google Play Music Desktop Player `[c]`
+- YouTube Music Desktop Player `[c]`
 
 ## Libraries (those marked with `[vcpkg]` can be installed using it)
 - [Eigen3](https://eigen.tuxfamily.org/index.php?title=Main_Page) `[vcpkg]`
