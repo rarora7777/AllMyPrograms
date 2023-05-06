@@ -7,7 +7,7 @@ gs -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/ebook -dNOPAUSE -dQ
 ### `ffmpeg` Simple Compression
 
 ```
-ffmpeg.exe -i input.mp4 -c:v libx264 -crf 20 output.mp4
+ffmpeg -i input.mp4 -c:v libx264 -crf 20 output.mp4
 ```
 
 ### Video to High-quality GIF
