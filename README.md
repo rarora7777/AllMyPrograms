@@ -1,5 +1,5 @@
-# AllMyPrograms
-List of programs to download on a fresh Windows computer. Those marked with `[c]` can be installed via the command line using `allmyprograms.ps1`. Most are installed via [Chocolatey](chocolatey.org/), which itself is downloaded and installed by `allmyprograms.ps1` first.
+# All my programs
+List of programs to download on a fresh Windows computer. Those marked with `[c]` can be installed via the command line using `allmyprograms.ps1`. Most are installed via [Chocolatey](chocolatey.org/), which itself is downloaded and installed by `allmyprograms.ps1` first. Also, `commandgems.ps1` contains some useful compression/conversion commands.
 
 ## Dev Tools
 - Chocolatey `[c]`
