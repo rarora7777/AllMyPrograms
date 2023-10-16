@@ -22,6 +22,12 @@ choco install unity-hub -y
 choco install git -y
 refreshenv
 
+# adb
+choco install adb -y
+
+# scrcpy
+choco install scrcpy -y
+
 # Adobe CC
 choco install adobe-creative-cloud -y
 
@@ -75,9 +81,6 @@ choco install zoom -y
 
 # slack
 choco install slack -y
-
-# ferdium
-choco install ferdium -y
 
 # steam
 choco install steam -y
