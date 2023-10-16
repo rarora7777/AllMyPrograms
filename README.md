@@ -12,6 +12,8 @@ List of programs to download on a fresh Windows computer. Those marked with `[c]
   - Unity
 - vcpkg `[c]`
 - Git `[c]`
+- adb `[c]`
+- scrcpy `[c]`
 
 ## Creative Tools
 - Adobe Creative Cloud `[c]`
@@ -50,7 +52,6 @@ List of programs to download on a fresh Windows computer. Those marked with `[c]
 - Skype Win32 `[c]`
 - Zoom `[c]`
 - Slack `[c]`
-- Ferdi `[c]`
 
 ## Misc.
 - Steam `[c]`
