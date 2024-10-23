@@ -3,7 +3,7 @@
 source ~/git-prompt.sh
 
 precmd() {
- __git_ps1 $CONDA_PROMPT_MODIFIER'%1~ ' '$ '
+ __posh_git_ps1 $CONDA_PROMPT_MODIFIER'%1~ ' '$ '
 }
 
 [[ -r ~/Repos/znap/znap.zsh ]] ||
