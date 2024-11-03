@@ -3,7 +3,13 @@
 source ~/git-prompt.sh
 
 precmd() {
- __posh_git_ps1 $CONDA_PROMPT_MODIFIER'%1~ ' '$ '
+    FOLDER=${PWD##*/}
+    FOLDER=${FOLDER:-/}
+    LEN=${#FOLDER}
+    if [ $LEN -ge 20 ]; then
+        FOLDER=${FOLDER:0:20}'…'
+    fi
+    __posh_git_ps1 $CONDA_PROMPT_MODIFIER$FOLDER ' $ '
 }
 
 [[ -r ~/Repos/znap/znap.zsh ]] ||
